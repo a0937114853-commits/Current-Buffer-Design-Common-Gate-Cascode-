@@ -21,9 +21,9 @@
 | :---: | :---: |
 | ![CG Schematic](figures/cg_schematic.png)<br>*圖 1：共閘極放大器 SPICE 電路圖* | ![CG Op Point](figures/cg_op.png)<br>*圖 2：DC 工作點分析 (.op)* |
 
-| 原始負載電流波形 (含 DC 偏移) | 交流訊號提取與增益驗證 |
-| :---: | :---: |
-| ![CG Original Wave](figures/cg_wave_original.png)<br>*圖 3：原始 I(R<sub>4</sub>) 帶有直流偏移之波形* | ![CG Gain Wave](figures/cg_wave_gain.png)<br>*圖 4：(a) 輸入 I<sub>in</sub>(AC) 與 (b) 輸出 I<sub>out</sub>(AC)* |
+| 原始負載電流波形 (含 DC 偏移) | 交流輸入訊號 | 交流輸出訊號 |
+| :---: | :---: | :---: |
+| ![CG Original Wave](figures/cg_wave_original.png)<br>*圖 3：原始 I(R<sub>4</sub>) 帶有直流偏移之波形* | ![CG Input Wave](figures/cg_wave_in.png)<br>*圖 4(a)：輸入 I<sub>in</sub>(AC)* | ![CG Output Wave](figures/cg_wave_out.png)<br>*圖 4(b)：輸出 I<sub>out</sub>(AC)* |
 
 ---
 
@@ -36,9 +36,9 @@
 | :---: | :---: |
 | ![Cascode Schematic](figures/cascode_schematic.png)<br>*圖 5：Cascode 電流緩衝器電路圖* | ![Cascode Op Point](figures/cascode_op.png)<br>*圖 6：Cascode 體系之 DC 工作點分析* |
 
-| 原始負載電流波形 (含 DC 偏移) | 交流訊號提取與增益驗證 |
-| :---: | :---: |
-| ![Cascode Original Wave](figures/cascode_wave_original.png)<br>*圖 7：原始 I(R<sub>4</sub>) 帶有直流偏移之波形* | ![Cascode Gain Wave](figures/cascode_wave_gain.png)<br>*圖 8：(a) 輸入 I<sub>in</sub>(AC) 與 (b) 輸出 I<sub>out</sub>(AC)* |
+| 原始負載電流波形 (含 DC 偏移) | 交流輸入訊號 | 交流輸出訊號 |
+| :---: | :---: | :---: |
+| ![Cascode Original Wave](figures/cascode_wave_original.png)<br>*圖 7：原始 I(R<sub>4</sub>) 帶有直流偏移之波形* | ![Cascode Input Wave](figures/cascode_wave_in.png)<br>*圖 8(a)：輸入 I<sub>in</sub>(AC)* | ![Cascode Output Wave](figures/cascode_wave_out.png)<br>*圖 8(b)：輸出 I<sub>out</sub>(AC)* |
 
 ---
 
